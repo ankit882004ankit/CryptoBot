@@ -26,7 +26,7 @@ CryptoBot is a Django-based web application designed to manage cryptocurrency al
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/cryptobot.git
+   git clone https://github.com/ankit882004ankit/cryptobot.git
    cd cryptobot
    ```
 
